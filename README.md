@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **angelstojmanovski7@gmail.com**
 
-- <a href="https://emoji.gg/emoji/3636-discord-logo"><img src="https://cdn3.emoji.gg/emojis/3636-discord-logo.png" width="64px" height="64px" alt="Discord_Logo"></a> Discord: ~/usr/bin/grapes#9604
+- <a href="https://emoji.gg/emoji/3636-discord-logo"><img src="https://cdn3.emoji.gg/emojis/3636-discord-logo.png" width="16px" height="16px" alt="Discord_Logo"></a> Discord: ~/usr/bin/grapes#9604
 
 - ⚡ **I am currently focused on mastering Front-end Development in the React framework**
 
