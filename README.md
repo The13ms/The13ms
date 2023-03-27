@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React, NextJS and figma.**
 
-- 💬 Ask me about **Front-end development**
-
 - 📫 How to reach me **angelstojmanovski7@gmail.com**
 
 - ⚡ **I am currently focused on mastering Front-end Development in the React framework**
