@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **angelstojmanovski7@gmail.com**
 
+- Discord: ~/usr/bin/grapes#9604
+
 - ⚡ **I am currently focused on mastering Front-end Development in the React framework**
 
 <h3 align="left">Connect with me:</h3>
