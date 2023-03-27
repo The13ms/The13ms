@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **angelstojmanovski7@gmail.com**
 
-- ⚡ Fun fact **I am currently focused on mastering Front-end**
+- ⚡ **I am currently focused on mastering Front-end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
