@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the13ms&label=Profile%20views&color=0e75b6&style=flat" alt="the13ms" /> </p>
 
-- 🔭 I’m currently working on [a React music Player](https://github.com/The13ms/advanced-react-JS-MusicPlayer)
+- 🔭 I’m currently working on [React music Player](https://github.com/The13ms/advanced-react-JS-MusicPlayer)
 
 - 🌱 I’m currently learning **React, NextJS and figma.**
 
