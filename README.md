@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, NextJS and figma.**
 
-- 📫 How to reach me **stojmanovski355@gmail.com**
+- 📫 How to reach me **angelstojmanovski7@gmail.com**
 
 - ⚡ **I am currently focused on mastering Front-end Development**
 
