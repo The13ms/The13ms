@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **angelstojmanovski7@gmail.com**
 
-- ⚡ **I am currently focused on mastering Front-end Development in the React framework**
+- ⚡ **I am currently focused on mastering Front-end Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
