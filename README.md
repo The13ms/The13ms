@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [React music Player](https://github.com/The13ms/advanced-react-JS-MusicPlayer)
 
-- 🌱 I’m currently learning **React, NextJS and figma.**
-
 - 📫 How to reach me **angelstojmanovski7@gmail.com**
 
 - ⚡ **I am currently focused on mastering Front-end Development**
