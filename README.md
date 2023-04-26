@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [React music Player](https://github.com/The13ms/advanced-react-JS-MusicPlayer)
 
-- 📫 How to reach me **stojmanovski355@gmail.com**
+- 📫 How to reach me **angelstojmanovski7@gmail.com**
 
 - ⚡ **I am currently focused on mastering Full-stack Development**
 
