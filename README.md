@@ -8,7 +8,7 @@
 
 - If you need anything done feel free to add me on discord.
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /> Discord Tag: ~/usr/bin/grapes#9604
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /> Discord Tag:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
