@@ -2,8 +2,6 @@
 <h3 align="center">Full-stack developer from Macedonia</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the13ms&label=Profile%20views&color=0e75b6&style=flat" alt="the13ms" /> </p>
-
 - 🔭 I’m currently working on [React music Player](https://github.com/The13ms/advanced-react-JS-MusicPlayer)
 
 <h3 align="left">Connect with me:</h3>
