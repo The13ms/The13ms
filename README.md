@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm Angel</h1>
+<h1 align="center">🔥Hi! I'm Angel🔥</h1>
 <h3 align="center">Full-stack developer from Macedonia</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif">
 
